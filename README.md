@@ -15,7 +15,7 @@ Epic Adventure is a choose your own adventure story. The user makes choices and 
 
 ## Links
 
-Deployed Page - ![https://ku-project2-group3.herokuapp.com/](https://ku-project2-group3.herokuapp.com/)
+Deployed Page - [https://ku-project2-group3.herokuapp.com/](https://ku-project2-group3.herokuapp.com/)
 
 ## Contributors
 
