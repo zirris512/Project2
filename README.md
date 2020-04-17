@@ -31,4 +31,4 @@ Epic Adventure is a choose your own adventure story. The user makes choices and 
 
 ## License & Copyright
 
-&copy; Brent Edwards
+&copy; Brent Edwards, Jesus Renteria, Broc Davis, Samantha Lynnes
